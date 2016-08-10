@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[soulmaker]]></title>
-        <description><![CDATA[soulmaker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Steve Thorp]]></title>
+        <description><![CDATA[Steve Thorp]]></description>
+        <link>https://thegrid.ai/soulmaker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 15:30:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 16:02:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soulmaker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[21soul]]></title>
+            <description><![CDATA[<article><h1>21soul</h1><p>The online home of Steve Thorp : independent coach, therapist, creative activist and writer Welcome to my website Soul making is for people who want to live with depth, grit, grace and spirit and make a real difference in their work, art and life.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d8c174cf519da37144dec1f2ad218a1/noop.jpg?input=http%3A%2F%2Fwww.21soul.co.uk%2Fcommunities%2F9%2F004%2F012%2F405%2F769%2F%2Fimages%2F4604533856.jpg"></article>]]></description>
+            <link>http://www.21soul.co.uk/</link>
+            <guid isPermaLink="false">db7f8024-e615-4af3-bdfc-6329298deb8a</guid>
+            <pubDate>Wed, 10 Aug 2016 16:02:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why You Need to Love Yourself More]]></title>
             <description><![CDATA[<article><h1>Why You Need to Love Yourself More</h1><p>I used to believe that love meant putting everyone else and their needs first, before my own. While I do think there is some truth to that, in the sense that being a giving person is one of the ultimate acts of being a loving person, I came to realize that I must give to and love myself first and foremost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6a2a90ce8ffccabb83684f228ad6037de398f.jpg"></article>]]></description>
