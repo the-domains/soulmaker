@@ -1,4 +1,3 @@
-layout_spectrum: 0.4055998385883868
 typography_spectrum: 0.09865900268778205
 color:
   brandStrength: 0.7363253415096551
@@ -6,9 +5,11 @@ color:
   saturation: 0.588189706671983
   rhythmicContrast: 0.10099040390923619
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.4055998385883868
 name: soulmaker
+description: intregral practices for soulful living
