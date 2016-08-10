@@ -6,9 +6,9 @@ color:
   saturation: 0.588189706671983
   rhythmicContrast: 0.10099040390923619
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: soulmaker
