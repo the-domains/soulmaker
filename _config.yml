@@ -1,0 +1,14 @@
+layout_spectrum: 0.4055998385883868
+typography_spectrum: 0.09865900268778205
+color:
+  brandStrength: 0.7363253415096551
+  lightness: 0.7481164953205734
+  saturation: 0.588189706671983
+  rhythmicContrast: 0.10099040390923619
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: soulmaker
